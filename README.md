@@ -1,4 +1,4 @@
-# *\*JavaAI — Premium JavaFX AI Chatbot*
+# *JavaAI — Premium JavaFX AI Chatbot*
 
 JavaAI is a modern, responsive, and asynchronous desktop AI assistant built using **JavaFX** and powered by the **Llama 3.1 Model** via the Groq Cloud API. It provides an enterprise-grade UI experience with real-time analytics, smooth custom-rendered layouts, and reliable local state persistence.
 
